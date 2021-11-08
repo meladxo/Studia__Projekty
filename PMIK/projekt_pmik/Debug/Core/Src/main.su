@@ -1,0 +1,12 @@
+core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+main.c:84:6:Neopixel_setup	16	static
+main.c:113:6:show_neopixels	4	static
+main.c:122:6:set_colour	24	static
+main.c:178:6:print_measurement	48	static
+main.c:204:6:light_correctness	16	static
+main.c:214:9:neopoxel_transmitting	4	static
+main.c:218:6:measurement_light	16	static
+main.c:232:5:main	56	static
+main.c:321:6:SystemClock_Config	232	static
+main.c:382:6:TIM4_IRQHandler	4	static
+main.c:410:6:Error_Handler	4	static,ignoring_inline_asm
