@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1542" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -116,7 +116,7 @@
           <mxGeometry height="30" width="250" x="530" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-5" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Kompensacja temperaturowa" vertex="1">
-          <mxGeometry height="40" width="310" x="35" y="180" as="geometry" />
+          <mxGeometry height="40" width="310" x="50" y="170" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-104" connectable="0" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="group" value="" vertex="1">
           <mxGeometry height="115" width="590" x="50" y="20" as="geometry" />
@@ -153,6 +153,11 @@
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-111" parent="4e5_B5QFNTCjXd-lR9Ni-107" style="text;whiteSpace=wrap;html=1;fontSize=10;" value="&lt;i style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid;&quot;&gt;i&lt;span class=&quot;Apple-converted-space&quot;&gt;&amp;nbsp;&amp;gt;= 8&lt;/span&gt;&lt;/i&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="320" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-113" edge="1" parent="4e5_B5QFNTCjXd-lR9Ni-20" source="4e5_B5QFNTCjXd-lR9Ni-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="169" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-75" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u930uuw7OmdNqHaqFAcZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.24;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" target="4e5_B5QFNTCjXd-lR9Ni-99">
           <mxGeometry relative="1" as="geometry">
