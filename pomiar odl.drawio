@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="700" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="575" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -65,11 +65,11 @@
         <mxCell id="u930uuw7OmdNqHaqFAcZ-27" parent="u930uuw7OmdNqHaqFAcZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tak" vertex="1">
           <mxGeometry height="30" width="60" x="200" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-13" edge="1" parent="u930uuw7OmdNqHaqFAcZ-15" source="4e5_B5QFNTCjXd-lR9Ni-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="u930uuw7OmdNqHaqFAcZ-27">
+        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-13" edge="1" parent="u930uuw7OmdNqHaqFAcZ-15" source="4e5_B5QFNTCjXd-lR9Ni-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="u930uuw7OmdNqHaqFAcZ-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="120" />
-              <mxPoint x="560" y="220" />
+              <mxPoint x="560" y="215" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -106,11 +106,6 @@
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-16" parent="u930uuw7OmdNqHaqFAcZ-18" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="pomiar temperatury&amp;nbsp;&lt;i&gt;t&lt;/i&gt;" vertex="1">
           <mxGeometry height="30" width="160" x="110" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="u930uuw7OmdNqHaqFAcZ-28" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u930uuw7OmdNqHaqFAcZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4e5_B5QFNTCjXd-lR9Ni-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-19" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4e5_B5QFNTCjXd-lR9Ni-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="u930uuw7OmdNqHaqFAcZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -120,13 +115,16 @@
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-21" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Filtracja i kompensacja&amp;nbsp;&lt;div&gt;pomiaru odległości&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="250" x="384" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-3" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Obliczenie średniej ucinanej dla zbioru próbek :&lt;/div&gt;&lt;div&gt;- sortowanie zbioru metodą przez wstawianie (&lt;i&gt;ang. insertion sort&lt;/i&gt;)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- obcięcie ekstremów &amp;nbsp;z procentem obcięcia 25%&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;- obliczenie średniej&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="320" x="30" y="25" as="geometry" />
+        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-3" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Obliczenie średniej ucinanej dla zbioru próbek :&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- &lt;font style=&quot;font-size: 11px;&quot;&gt;sortowanie zbioru metodą przez wstawianie (&lt;i&gt;ang. insertion sort&lt;/i&gt;)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- obcięcie ekstremów &amp;nbsp;z procentem obcięcia 25%&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;- obliczenie średniej&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="85" width="360" x="30" y="25" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-5" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Kompensacja temperaturowa" vertex="1">
           <mxGeometry height="40" width="310" x="35" y="210" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-18" edge="1" parent="4e5_B5QFNTCjXd-lR9Ni-20" source="4e5_B5QFNTCjXd-lR9Ni-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="4e5_B5QFNTCjXd-lR9Ni-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-31" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u930uuw7OmdNqHaqFAcZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" target="4e5_B5QFNTCjXd-lR9Ni-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
