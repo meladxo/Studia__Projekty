@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1173" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1864" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -31,13 +31,13 @@
           <mxGeometry height="50" width="120" x="80" y="10" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="ellipse;whiteSpace=wrap;html=1;" value="koniec pomiaru poziomu wody" vertex="1">
-          <mxGeometry height="50" width="120" x="80" y="760" as="geometry" />
+          <mxGeometry height="50" width="120" x="90" y="760" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="250" width="660" x="-50" y="240" as="geometry" />
+          <mxGeometry height="250" width="780" x="-50" y="240" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-17" parent="u930uuw7OmdNqHaqFAcZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Akwizycja zbioru pomiarów odległości&amp;nbsp;&lt;div&gt;( 16 pomiarów )&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="250" x="340" y="10" as="geometry" />
+          <mxGeometry height="30" width="250" x="550" y="10" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-0" edge="1" parent="u930uuw7OmdNqHaqFAcZ-15" source="u930uuw7OmdNqHaqFAcZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="u930uuw7OmdNqHaqFAcZ-22" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -89,10 +89,10 @@
           <mxGeometry height="30" width="270" x="150" y="160" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-18" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="160" width="660" x="-50" y="80" as="geometry" />
+          <mxGeometry height="160" width="780" x="-50" y="80" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-19" parent="u930uuw7OmdNqHaqFAcZ-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Zabezpieczenia czujnika ultradźwiękowego przed uszkodzeniami" vertex="1">
-          <mxGeometry height="30" width="250" x="330" y="10" as="geometry" />
+          <mxGeometry height="30" width="250" x="540" y="10" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-13" parent="u930uuw7OmdNqHaqFAcZ-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Tak" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="130" as="geometry" />
@@ -107,13 +107,17 @@
           <mxGeometry height="30" width="160" x="110" y="20" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-19" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="4e5_B5QFNTCjXd-lR9Ni-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="u930uuw7OmdNqHaqFAcZ-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="760" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-20" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="240" width="730" x="-50" y="490" as="geometry" />
+          <mxGeometry height="240" width="780" x="-50" y="490" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-21" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Filtracja i kompensacja&amp;nbsp;&lt;div&gt;pomiaru odległości&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="250" x="530" as="geometry" />
+          <mxGeometry height="30" width="250" x="590" y="10" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-5" parent="4e5_B5QFNTCjXd-lR9Ni-20" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Kompensacja temperaturowa" vertex="1">
           <mxGeometry height="40" width="310" x="50" y="170" as="geometry" />
