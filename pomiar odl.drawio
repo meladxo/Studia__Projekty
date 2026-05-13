@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="805" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1150" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -37,7 +37,7 @@
           <mxGeometry height="50" width="120" x="150" y="790" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="250" width="900" x="30" y="240" as="geometry" />
+          <mxGeometry height="250" width="580" x="30" y="240" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-17" parent="u930uuw7OmdNqHaqFAcZ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Akwizycja zbioru pomiarów odległości&amp;nbsp;&lt;div&gt;( 16 pomiarów )&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="250" x="330" y="10" as="geometry" />
@@ -92,7 +92,7 @@
           <mxGeometry height="30" width="270" x="150" y="160" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-18" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;startSize=0;dashed=1;dashPattern=12 12;" value="" vertex="1">
-          <mxGeometry height="160" width="570" x="30" y="80" as="geometry" />
+          <mxGeometry height="160" width="580" x="30" y="80" as="geometry" />
         </mxCell>
         <mxCell id="u930uuw7OmdNqHaqFAcZ-19" parent="u930uuw7OmdNqHaqFAcZ-18" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Zabezpieczenia czujnika ultradźwiękowe przed uszkodzeniami" vertex="1">
           <mxGeometry height="30" width="250" x="320" y="10" as="geometry" />
