@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1864" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -73,7 +73,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-2" parent="u930uuw7OmdNqHaqFAcZ-15" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Zapis próbki do zbioru danych&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;i&gt;D = {...,&lt;/i&gt;&lt;i&gt;d&lt;sub&gt;i,&lt;/sub&gt;&lt;/i&gt;&lt;i&gt;&amp;nbsp;...}&lt;/i&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-2" parent="u930uuw7OmdNqHaqFAcZ-15" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Zapis próbki do zbioru danych&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;i&gt;D&lt;font size=&quot;1&quot;&gt;&lt;sub&gt;n&lt;/sub&gt;&lt;/font&gt;&amp;nbsp;= {...,&lt;/i&gt;&lt;i&gt;d&lt;sub&gt;i,&lt;/sub&gt;&lt;/i&gt;&lt;i&gt;&amp;nbsp;..., d&lt;sub&gt;n&lt;/sub&gt;}&lt;/i&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="230" x="320" y="92.5" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-11" edge="1" parent="u930uuw7OmdNqHaqFAcZ-15" source="4e5_B5QFNTCjXd-lR9Ni-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4e5_B5QFNTCjXd-lR9Ni-2">
