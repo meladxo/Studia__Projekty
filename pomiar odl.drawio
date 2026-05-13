@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1150" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="805" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -112,8 +112,8 @@
         <mxCell id="u930uuw7OmdNqHaqFAcZ-28" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u930uuw7OmdNqHaqFAcZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Obliczenie średniej trymowanej :&lt;/div&gt;&lt;div&gt;- obcięcie ekstremów &amp;nbsp;z procentem obcięcia 25%&lt;/div&gt;&lt;div&gt;- obliczenie średniej wartośc&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="500" x="270" y="530" as="geometry" />
+        <mxCell id="4e5_B5QFNTCjXd-lR9Ni-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;div&gt;Obliczenie średniej trymowanej :&lt;/div&gt;&lt;div&gt;- obcięcie ekstremów &amp;nbsp;z procentem obcięcia 25%&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;- obliczenie średniej&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="331" x="440" y="530" as="geometry" />
         </mxCell>
         <mxCell id="4e5_B5QFNTCjXd-lR9Ni-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Kompensacja temperaturowa" vertex="1">
           <mxGeometry height="40" width="500" x="300" y="670" as="geometry" />
