@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Strona-1" id="J_ZFQUlAOmTY-u0ceUot">
-    <mxGraphModel dx="2477" dy="1137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1817" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yD45H5gT0P3rlbwKihZS-34" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;strokeWidth=0;fontColor=#000000;" value="" vertex="1">
-          <mxGeometry height="460" width="840" x="-590" y="70" as="geometry" />
+          <mxGeometry height="480" width="840" x="-590" y="70" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-35" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_buforCyclical[24]" vertex="1">
-          <mxGeometry height="460" width="370" x="20" as="geometry" />
+          <mxGeometry height="480" width="370" x="20" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-39" connectable="0" parent="yD45H5gT0P3rlbwKihZS-35" style="group" value="" vertex="1">
           <mxGeometry height="410" width="371" x="20" y="30" as="geometry" />
@@ -58,8 +58,11 @@
         <mxCell id="yD45H5gT0P3rlbwKihZS-54" parent="yD45H5gT0P3rlbwKihZS-47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ dO&lt;span style=&quot;font-size: 12px;&quot;&gt;W: type&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="298.609756097561" y="182" as="geometry" />
         </mxCell>
+        <mxCell id="ngXlWBsLxeeHG-byEibr-3" parent="yD45H5gT0P3rlbwKihZS-35" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;b&gt;648 bajtów&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="370" y="440" as="geometry" />
+        </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-36" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;fontColor=#000000;" value="RTC_buforSingle" vertex="1">
-          <mxGeometry height="460" width="240" x="390" as="geometry" />
+          <mxGeometry height="480" width="240" x="390" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-80" parent="yD45H5gT0P3rlbwKihZS-36" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;line-height: 18px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;struct RTC_SingleMeasurements&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="210" x="15" y="30" as="geometry" />
@@ -70,8 +73,11 @@
         <mxCell id="yD45H5gT0P3rlbwKihZS-82" parent="yD45H5gT0P3rlbwKihZS-80" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+&amp;nbsp;&lt;span style=&quot;caret-color: rgb(31, 35, 40); color: rgb(31, 35, 40); background-color: rgb(255, 255, 255);&quot;&gt;longitude_rtc&lt;/span&gt;: float" vertex="1">
           <mxGeometry height="28" width="210" y="52" as="geometry" />
         </mxCell>
+        <mxCell id="ngXlWBsLxeeHG-byEibr-2" parent="yD45H5gT0P3rlbwKihZS-36" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;b&gt;8 bajtów&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="240" y="440" as="geometry" />
+        </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-37" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_StatusBufor" vertex="1">
-          <mxGeometry height="460" width="210" x="630" as="geometry" />
+          <mxGeometry height="480" width="210" x="630" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-87" parent="yD45H5gT0P3rlbwKihZS-37" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="&lt;div style=&quot;line-height: 18px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(36, 34, 29));&quot;&gt;struct&amp;nbsp;&lt;span style=&quot;text-align: start;&quot;&gt;RTC_TestStatus&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="190" width="190" x="10" y="30" as="geometry" />
@@ -93,6 +99,9 @@
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-89" parent="yD45H5gT0P3rlbwKihZS-87" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;+&amp;nbsp;&lt;/span&gt;GpsFail_count:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 12.000001px;&quot;&gt;uint16_t&lt;/span&gt;" vertex="1">
           <mxGeometry height="34" width="190" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="ngXlWBsLxeeHG-byEibr-1" parent="yD45H5gT0P3rlbwKihZS-37" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;b&gt;12 bajtów&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="210" y="440" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;b&gt;RTC_DATA_ATTR (pięć RTC EP32)&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="820" x="-570" y="30" as="geometry" />
