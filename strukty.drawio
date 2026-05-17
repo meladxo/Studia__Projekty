@@ -67,10 +67,10 @@
         <mxCell id="QZzXj3dY4c8qdvHofqte-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RTC_DATA_ATTR (pięć RTC EP32)" vertex="1">
           <mxGeometry height="40" width="590" x="470" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="yD45H5gT0P3rlbwKihZS-34" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" value="Pool" vertex="1">
-          <mxGeometry height="480" width="660" x="-570" y="70" as="geometry" />
+        <mxCell id="yD45H5gT0P3rlbwKihZS-34" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;strokeWidth=2;" value="Pool" vertex="1">
+          <mxGeometry height="480" width="810" x="-570" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="yD45H5gT0P3rlbwKihZS-35" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;" value="Lane 1" vertex="1">
+        <mxCell id="yD45H5gT0P3rlbwKihZS-35" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_buforCyclical[24]" vertex="1">
           <mxGeometry height="480" width="370" x="20" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-39" connectable="0" parent="yD45H5gT0P3rlbwKihZS-35" style="group" value="" vertex="1">
@@ -121,11 +121,11 @@
         <mxCell id="yD45H5gT0P3rlbwKihZS-54" parent="yD45H5gT0P3rlbwKihZS-47" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="+ dO&lt;span style=&quot;font-size: 12px;&quot;&gt;W: type&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="298.609756097561" y="182" as="geometry" />
         </mxCell>
-        <mxCell id="yD45H5gT0P3rlbwKihZS-36" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;" value="Lane 2" vertex="1">
+        <mxCell id="yD45H5gT0P3rlbwKihZS-36" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_buforSingle" vertex="1">
           <mxGeometry height="480" width="240" x="390" as="geometry" />
         </mxCell>
-        <mxCell id="yD45H5gT0P3rlbwKihZS-37" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;" value="Lane 3" vertex="1">
-          <mxGeometry height="480" width="30" x="630" as="geometry" />
+        <mxCell id="yD45H5gT0P3rlbwKihZS-37" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_StatusBufor" vertex="1">
+          <mxGeometry height="480" width="180" x="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
