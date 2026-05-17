@@ -127,6 +127,9 @@
         <mxCell id="yD45H5gT0P3rlbwKihZS-37" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_StatusBufor" vertex="1">
           <mxGeometry height="480" width="180" x="630" as="geometry" />
         </mxCell>
+        <mxCell id="yD45H5gT0P3rlbwKihZS-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;b&gt;RTC_DATA_ATTR (pięć RTC EP32)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="810" x="-570" y="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
