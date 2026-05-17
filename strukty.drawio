@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Strona-1" id="J_ZFQUlAOmTY-u0ceUot">
-    <mxGraphModel dx="1720" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1586" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,8 +67,8 @@
         <mxCell id="QZzXj3dY4c8qdvHofqte-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="RTC_DATA_ATTR (pięć RTC EP32)" vertex="1">
           <mxGeometry height="40" width="590" x="470" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="yD45H5gT0P3rlbwKihZS-34" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;strokeWidth=2;" value="Pool" vertex="1">
-          <mxGeometry height="480" width="810" x="-570" y="70" as="geometry" />
+        <mxCell id="yD45H5gT0P3rlbwKihZS-34" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;strokeWidth=0;" value="" vertex="1">
+          <mxGeometry height="480" width="830" x="-590" y="70" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-35" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_buforCyclical[24]" vertex="1">
           <mxGeometry height="480" width="370" x="20" as="geometry" />
@@ -125,7 +125,7 @@
           <mxGeometry height="480" width="240" x="390" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-37" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;strokeWidth=2;" value="RTC_StatusBufor" vertex="1">
-          <mxGeometry height="480" width="180" x="630" as="geometry" />
+          <mxGeometry height="480" width="200" x="630" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;b&gt;RTC_DATA_ATTR (pięć RTC EP32)&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="810" x="-570" y="30" as="geometry" />
