@@ -68,10 +68,10 @@
           <mxGeometry height="40" width="590" x="470" y="60" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-34" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" value="Pool" vertex="1">
-          <mxGeometry height="480" width="680" x="-570" y="70" as="geometry" />
+          <mxGeometry height="480" width="660" x="-570" y="70" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-35" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;" value="Lane 1" vertex="1">
-          <mxGeometry height="480" width="390" x="20" as="geometry" />
+          <mxGeometry height="480" width="370" x="20" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-39" connectable="0" parent="yD45H5gT0P3rlbwKihZS-35" style="group" value="" vertex="1">
           <mxGeometry height="410" width="371" x="20" y="43" as="geometry" />
@@ -122,10 +122,10 @@
           <mxGeometry height="26" width="298.609756097561" y="182" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-36" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;" value="Lane 2" vertex="1">
-          <mxGeometry height="480" width="240" x="410" as="geometry" />
+          <mxGeometry height="480" width="240" x="390" as="geometry" />
         </mxCell>
         <mxCell id="yD45H5gT0P3rlbwKihZS-37" parent="yD45H5gT0P3rlbwKihZS-34" style="swimlane;startSize=20;" value="Lane 3" vertex="1">
-          <mxGeometry height="480" width="30" x="650" as="geometry" />
+          <mxGeometry height="480" width="30" x="630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
