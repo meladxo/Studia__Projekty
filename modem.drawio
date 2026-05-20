@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Strona-1" id="qUiWrLwNQSNPpPlMcjFA">
-    <mxGraphModel dx="2038" dy="2347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
           <mxGeometry height="100" width="490.0000000000001" as="geometry" />
         </mxCell>
         <mxCell id="zzqq1YDTvUKB0URQ00NY-74" connectable="0" parent="zzqq1YDTvUKB0URQ00NY-72" style="group" value="" vertex="1">
-          <mxGeometry height="90" width="470" x="10.65217391304348" as="geometry" />
+          <mxGeometry height="95" width="470" x="10.65217391304348" as="geometry" />
         </mxCell>
         <mxCell id="zzqq1YDTvUKB0URQ00NY-75" parent="zzqq1YDTvUKB0URQ00NY-74" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" value="" vertex="1">
           <mxGeometry height="60" width="117.17391304347828" y="30" as="geometry" />
@@ -112,13 +112,13 @@
         <mxCell id="zzqq1YDTvUKB0URQ00NY-77" parent="zzqq1YDTvUKB0URQ00NY-74" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" value="" vertex="1">
           <mxGeometry height="60" width="117.17391304347828" x="117.17391304347828" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="zzqq1YDTvUKB0URQ00NY-78" parent="zzqq1YDTvUKB0URQ00NY-74" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;wyłączenie&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;funkcyjne&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(wyłączenie&amp;nbsp;)&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="95.86956521739131" x="138.47826086956525" y="40" as="geometry" />
+        <mxCell id="zzqq1YDTvUKB0URQ00NY-78" parent="zzqq1YDTvUKB0URQ00NY-74" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;wyłączenie&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;funkcyjne&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;(wyłączenie&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;przez&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;PWRKEY&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt; przy awarii)&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="135.65" x="120" y="25" as="geometry" />
         </mxCell>
         <mxCell id="zzqq1YDTvUKB0URQ00NY-79" parent="zzqq1YDTvUKB0URQ00NY-74" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" value="" vertex="1">
           <mxGeometry height="60" width="117.17391304347828" x="234.34782608695656" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="zzqq1YDTvUKB0URQ00NY-80" parent="zzqq1YDTvUKB0URQ00NY-74" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;rejestracja do&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0); text-wrap-mode: nowrap;&quot;&gt;sieci&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="zzqq1YDTvUKB0URQ00NY-80" parent="zzqq1YDTvUKB0URQ00NY-74" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;test komunikacji&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;AT&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="95.86956521739131" x="255.6521739130435" y="40" as="geometry" />
         </mxCell>
         <mxCell id="zzqq1YDTvUKB0URQ00NY-81" parent="zzqq1YDTvUKB0URQ00NY-74" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;" value="połączenie&amp;nbsp;&lt;div&gt;sieciowe&amp;nbsp;&lt;/div&gt;&lt;div&gt;z&amp;nbsp;&lt;span style=&quot;font-size: 12px;&quot;&gt;APN&lt;/span&gt;&lt;/div&gt;" vertex="1">
