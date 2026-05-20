@@ -177,7 +177,7 @@
           <mxGeometry height="30" width="60" x="510" y="350" as="geometry" />
         </mxCell>
         <mxCell id="zzqq1YDTvUKB0URQ00NY-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ponowienie próby" vertex="1">
-          <mxGeometry height="30" width="95" x="555" y="160" as="geometry" />
+          <mxGeometry height="30" width="90" x="560" y="160" as="geometry" />
         </mxCell>
         <mxCell id="zzqq1YDTvUKB0URQ00NY-128" edge="1" parent="1" source="zzqq1YDTvUKB0URQ00NY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zzqq1YDTvUKB0URQ00NY-65">
           <mxGeometry relative="1" as="geometry" />
