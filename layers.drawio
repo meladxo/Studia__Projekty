@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Strona-1" id="DPsqSI-zgmFPrYd2Tdto">
+    <mxGraphModel dx="982" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S_G5nw2y3s7snTzaHKGq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LTE" vertex="1">
+          <mxGeometry height="40" width="140" x="340" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="S_G5nw2y3s7snTzaHKGq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="IPv4" vertex="1">
+          <mxGeometry height="40" width="140" x="340" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="S_G5nw2y3s7snTzaHKGq-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="TCP" vertex="1">
+          <mxGeometry height="40" width="140" x="340" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="S_G5nw2y3s7snTzaHKGq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HTTP" vertex="1">
+          <mxGeometry height="40" width="140" x="340" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="S_G5nw2y3s7snTzaHKGq-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="JSON" vertex="1">
+          <mxGeometry height="40" width="140" x="344" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
