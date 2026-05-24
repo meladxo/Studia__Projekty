@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S_G5nw2y3s7snTzaHKGq-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="LTE" vertex="1">
-          <mxGeometry height="40" width="140" x="340" y="390" as="geometry" />
+          <mxGeometry height="30" width="140" x="340" y="350" as="geometry" />
         </mxCell>
         <mxCell id="S_G5nw2y3s7snTzaHKGq-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="IPv4" vertex="1">
-          <mxGeometry height="40" width="140" x="340" y="340" as="geometry" />
+          <mxGeometry height="30" width="140" x="340" y="310" as="geometry" />
         </mxCell>
         <mxCell id="S_G5nw2y3s7snTzaHKGq-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TCP" vertex="1">
-          <mxGeometry height="40" width="140" x="340" y="290" as="geometry" />
+          <mxGeometry height="30" width="140" x="340" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="S_G5nw2y3s7snTzaHKGq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="HTTP" vertex="1">
-          <mxGeometry height="40" width="140" x="340" y="240" as="geometry" />
+        <mxCell id="S_G5nw2y3s7snTzaHKGq-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;" value="HTTP" vertex="1">
+          <mxGeometry height="30" width="140" x="340" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="S_G5nw2y3s7snTzaHKGq-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="JSON" vertex="1">
-          <mxGeometry height="20" width="40" x="430" y="250" as="geometry" />
+        <mxCell id="XHBb5Jzm9zoNuMk2Fquy-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" value="JSON" vertex="1">
+          <mxGeometry height="30" width="140" x="340" y="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
