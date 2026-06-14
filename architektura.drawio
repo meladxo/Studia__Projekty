@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Strona-1" id="ZkCLLlvlZTiGhxD7y0eD">
-    <mxGraphModel dx="1370" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1607" dy="1288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,13 +80,13 @@
           <mxGeometry height="60" width="120" x="520" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="91EkcE3siZvczleI5p3w-9" parent="1" style="shape=mxgraph.basic.arc;html=1;startAngle=0.5;endAngle=0.7185835209054994;endArrow=classic;endFill=1;" value="" vertex="1">
-          <mxGeometry height="210" width="210" x="370" y="890" as="geometry" />
+          <mxGeometry height="240" width="250" x="380" y="860" as="geometry" />
         </mxCell>
         <mxCell id="91EkcE3siZvczleI5p3w-10" parent="1" style="shape=mxgraph.basic.arc;html=1;startAngle=0.18729406089264386;endAngle=0.6749400511356194;endArrow=classic;endFill=1;" value="" vertex="1">
           <mxGeometry height="100" width="140" x="620" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="91EkcE3siZvczleI5p3w-21" parent="1" style="shape=mxgraph.basic.arc;html=1;startAngle=0.7976265303301715;endAngle=0.9640200985739569;endArrow=classic;endFill=1;fontStyle=1" value="" vertex="1">
-          <mxGeometry height="267.5" width="210" x="380" y="790" as="geometry" />
+        <mxCell id="91EkcE3siZvczleI5p3w-21" parent="1" style="shape=mxgraph.basic.arc;html=1;startAngle=0.7976265303301715;endAngle=0.9685835209054994;endArrow=classic;endFill=1;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="267.5" width="270" x="380" y="790" as="geometry" />
         </mxCell>
         <mxCell id="91EkcE3siZvczleI5p3w-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Bodowa komunikatu&amp;nbsp;&lt;div&gt;JSON i wysyłka danych&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="150" x="720" y="760" as="geometry" />
