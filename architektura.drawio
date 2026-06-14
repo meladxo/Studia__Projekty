@@ -28,13 +28,13 @@
         <mxCell id="UAClC48sAYUmzBQqjx6y-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;sketch=1;rotation=0;fillColor=#d5e8d4;strokeColor=#82b366;opacity=50;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="310" width="144.5" x="904.5" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="UAClC48sAYUmzBQqjx6y-17" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;" value="Koszyk ogniwo 18650&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ładowarka&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ogniwa&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="UAClC48sAYUmzBQqjx6y-17" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontSize=14;" value="Koszyk ogniwa 18650&lt;div&gt;&lt;div&gt;Ładowarka&amp;nbsp;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ogniwa&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="130" x="345" y="310" as="geometry" />
         </mxCell>
         <mxCell id="UAClC48sAYUmzBQqjx6y-18" parent="1" style="sketch=0;outlineConnect=0;fillColor=#6C8EBF;strokeColor=#6c8ebf;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.systems_manager_session_manager;strokeWidth=4;" value="" vertex="1">
           <mxGeometry height="52" width="52" x="632" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="UAClC48sAYUmzBQqjx6y-20" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=none;" value="Mikrokontroler ESP32&lt;div&gt;i interfejsy&amp;nbsp;&lt;/div&gt;&lt;div&gt;peryferyjne&lt;/div&gt;" vertex="1">
+        <mxCell id="UAClC48sAYUmzBQqjx6y-20" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=none;fontSize=14;" value="Mikrokontroler ESP32&lt;div&gt;i interfejsy&amp;nbsp;&lt;/div&gt;&lt;div&gt;peryferyjne&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="130" x="345" y="410" as="geometry" />
         </mxCell>
         <mxCell id="91EkcE3siZvczleI5p3w-1" parent="1" style="shape=mxgraph.signs.nature.sun_4;html=1;pointerEvents=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalLabelPosition=bottom;verticalAlign=top;align=center;" value="" vertex="1">
@@ -52,7 +52,7 @@
             <mxPoint x="969.0029999999997" y="410.41999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="91EkcE3siZvczleI5p3w-47" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=none;" value="Modem&lt;div&gt;komórkowy&lt;/div&gt;" vertex="1">
+        <mxCell id="91EkcE3siZvczleI5p3w-47" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=none;fontSize=14;" value="Modem&lt;div&gt;komórkowy&lt;/div&gt;" vertex="1">
           <mxGeometry height="75" width="130" x="345" y="217.5" as="geometry" />
         </mxCell>
         <mxCell id="91EkcE3siZvczleI5p3w-51" parent="1" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Czujnik ultradźwiękowy&lt;/span&gt;" vertex="1">
